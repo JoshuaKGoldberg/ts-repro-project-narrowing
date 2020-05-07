@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "tsc": "tsc"
+    "tsc": "tsc -b",
+    "verbose": "tsc --b --f -v --listFiles"
   },
   "keywords": [],
   "author": "",

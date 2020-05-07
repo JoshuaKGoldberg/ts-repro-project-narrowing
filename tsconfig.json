@@ -2,9 +2,14 @@
   "compilerOptions": {
     "composite": true,
   },
+  "files": [],
+  "include": [],
   "references": [
     {
       "path": "./src/a"
+    },
+    {
+      "path": "./src/b"
     },
   ]
 }
