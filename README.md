@@ -1,5 +1,7 @@
 # ts-repro-project-narrowing
 
+https://github.com/microsoft/TypeScript/issues/38406
+
 ```shell
 npm i
 npm run tsc
